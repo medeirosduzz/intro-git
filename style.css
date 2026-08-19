@@ -12,3 +12,7 @@ ul > li {
     display: flex;
     column-gap: 0.5rem;
 }   
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
